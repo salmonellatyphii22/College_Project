@@ -1,0 +1,21 @@
+Prompt: Hi, nice to meet you
+Category: General
+----------------------------------------
+Prompt: How are you?
+Category: General
+----------------------------------------
+Prompt: How are you?
+Category: General
+----------------------------------------
+Prompt: You are beautiful
+Category: General
+----------------------------------------
+Prompt: Help me write an email
+Category: Email Writing
+----------------------------------------
+Prompt: Hi, nice to meet you
+Category: General
+----------------------------------------
+Prompt: Help me to write code
+Category: Coding Help
+----------------------------------------
